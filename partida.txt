@@ -1,0 +1,22 @@
+[Event "#271 Rapido - 28jan2023 - Burgues 21"]
+[Site "Hamburgueria Burgues Sudoeste"]
+[Date "2023.01.28"]
+[Round "2"]
+[White "Nelson"]
+[Black "De Oliveira Joao Favaro"]
+[Result "1-0"]
+[WhiteElo "2239"]
+[BlackElo "1968"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. Bc4 e6
+8. O-O Ngf6 9. c3 Nb6 10. Bb3 Bd6 11. Bg5 h6 12. Bh4 O-O 13. Qe2 Bh7 14. Ne5
+Nbd5 15. Bxf6 gxf6 16. Ng4 Nf4 17. Qd2 h5 18. Ne3 Kh8 19. Bc2 f5 20. Ne2 Rg8
+21. Nxf4 Bxf4 22. g3 h4 23. Qe2 hxg3 24. fxg3 Qg5 25. Ng2 Bd6 26. Rf2 Rg7
+27. Qe3 Rag8 28. Qxg5 Rxg5 29. Kf1 Rh5 30. Nf4 Bxf4 31. gxf4 Rh4 32. Ke2 Rgg4
+33. Raf1 Rg7 34. Bd1 Rhg4 35. Ke3 Rg2 36. Bf3 Rg1 37. Ke2 R7g6 38. Rxg1 Rxg1
+39. Rf1 Rg7 40. Kf2 f6 41. Rg1 Rxg1 42. Kxg1 Kg7 43. Kf2 Bg6 44. Ke3 Kh6 45. b4
+Bh5 46. Bg2 Bg4 47. h3 Bd1 48. b5 Ba4 49. bxc6 Bxc6 50. Bxc6 bxc6 51. Kd3 Kh5
+52. Kc4 Kh4 53. Kc5 Kg3 54. Kxc6 Kxf4 55. Kd6 Kg5 56. Kxe6 f4 57. d5 f3 58. d6
+f2 59. d7 f1=Q 60. d8=Q Qxh3+ 61. Kf7 Qh7+ 62. Ke6 Qe4+ 63. Kf7 Qc4+ 64. Kg7
+Qxc3 65. Qe7 Qd4 66. a3 Kf5 67. Kf7 Qd5+ 68. Kf8 Qe6 69. Qc5+ Qe5 70. Qxa7 Qe6
+71. Qf2+ Kg6 72. Qg3+ Kh5 73. Qf3+ Qg4 {TEMPO} 1-0
